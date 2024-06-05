@@ -1,0 +1,68 @@
+body{
+    margin: 10px 10px 0px 10px;
+    padding: 0px;
+    background-color: #ADD8E6;
+    background: lightblue url("Milkshake_background.png") no-repeat fixed center;
+    background-size: 100%;
+  }
+
+  header{
+    height: 50px;
+    background-color: #fe0381;
+    padding: 20px;
+    font-family: Freehand521 BT;
+    font-size: 40px;
+    color: white;
+  }
+
+  h1{
+    font-family: Freehand521 BT;
+    color: white;
+    padding: 20px;
+    margin: 10pt;
+    border: 10pt;
+}
+
+h2{
+  margin: 10pt;
+  border: 10pt;
+}
+
+  p{
+    color: white;
+    font-size: 20pt;
+  }
+
+  img.Logo{
+    float: right;
+    width: 60px;
+    height: 60px;
+  }
+
+  section{
+    float: right;
+ }
+
+  form{
+    color: aliceblue;
+    font-size: 20pt;
+    padding: 10pt;
+    margin: 10pt;
+    border: 10pt;
+  }
+  
+  button{
+    color: #fe0381;
+    background-color: aqua;
+    padding: 10pt;
+    margin: 10pt;
+    border: 10pt;
+    font-size: 20pt;
+  }
+ 
+footer{
+    padding: 20px;
+    color: white;
+    background-color: #fe0381;
+    align-items: end;
+  }
